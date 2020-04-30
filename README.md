@@ -1,1 +1,1 @@
-# rahuWhat-After-College-Machine-Learning-
+# What-After-College-Machine-Learning-Workshop
