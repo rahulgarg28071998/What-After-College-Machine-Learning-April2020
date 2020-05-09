@@ -8,7 +8,6 @@ class 9 :
 https://colab.research.google.com/drive/1ukBcmeeLARsHRreottdcURQ4eimbVFcG?usp=sharing
 https://www.kaggle.com/rahulgarg28/ann-using-fashion-mnist-data/edit
 https://colab.research.google.com/drive/1LI8l3EtHPbwimCnwlqhmFWTqwJkuQ1rS?usp=sharing
-''
+
 class 10 : https://colab.research.google.com/drive/1neDnS0Id-wcsQ7TdjZXz7uxOa49u9m3Z?usp=sharing
 
-hi
